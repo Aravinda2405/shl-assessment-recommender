@@ -1,0 +1,6 @@
+shl_genai_env/
+__pycache__/
+*.pyc
+data/raw/
+data/vectors/
+.env
